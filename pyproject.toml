@@ -1,0 +1,8 @@
+[project]
+name = "cliffordnet-toy"
+version = "0.1.0"
+description = "Toy implementation of CLiffordNet geometric interactions"
+requires-python = ">=3.10"
+dependencies = ["torch"]
+[project.optional-dependencies]
+dev = ["pytest","torchvision"]
