@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+src/cliffordnet/__init__.py
+src/cliffordnet/ga_ops.py
+src/cliffordnet_toy.egg-info/PKG-INFO
+src/cliffordnet_toy.egg-info/SOURCES.txt
+src/cliffordnet_toy.egg-info/dependency_links.txt
+src/cliffordnet_toy.egg-info/requires.txt
+src/cliffordnet_toy.egg-info/top_level.txt
+tests/test_ga_ops.py
